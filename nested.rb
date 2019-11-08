@@ -57,7 +57,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-dennis_ritchies_language[:languages]     
+dennis_ritchies_language    
 end
 
 def adding_matz
